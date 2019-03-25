@@ -1,0 +1,62 @@
+body {
+    font-family: "Roboto";
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+    padding: 10px 30px;
+  }
+
+p {
+    text-align: justify;
+}
+
+/* Images */
+img {
+    height: 200px;
+    width: auto;
+}
+
+/* Image position */
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+/* Image sizes */
+img.small {
+    width: 100px;
+    height: auto;
+    margin: 2px;
+}
+
+img.medium {
+    width: 200px;
+    height: auto;
+    margin: 4px;
+}
+
+img.large {
+    width: 300px;
+    height: auto;
+    margin: 10px;
+}
+
+/* Galery */
+div.galery {
+    width: 100%;
+    text-align: center;
+}
+
+div.galery > img {
+    text-align: center;
+}
+
+iframe.youtube {
+    display: block;
+    margin: 5px auto;
+}

@@ -1,0 +1,372 @@
+/**/
+.center,
+.t_center{text-align:center;}
+/**/
+h3.contentheading_title{margin-bottom:5px;}
+/**/
+.contentpaneopen{width:100%}
+/**/
+.leftimg{float:left;margin-right:10px;height:auto !important}
+.rightimg{float:right;margin-left:10px;}
+.centerimg{margin:0 auto;}
+.noborder{border:none !important}
+/**/
+.symbols{width:33%;text-align:center}
+.symbols img{display:inline !important;border:none}
+/**/
+.rectorat{margin-bottom:8px;width:100%;overflow:hidden;}
+/**/
+.style_disc{margin-left:40px;}
+.style_disc li{margin-bottom:10px;}
+/**/
+ol{margin-left:30px}
+/*bold*/
+.bold{font-weight:bold}
+/**/
+.sostav_kafedri {float: left;text-align: center;width: 240px;height:300px;}
+.sostav_kafedri img {margin: 0px auto;width: 150px;}
+.sostav_kafedri p{font-size:12px;margin:2px 0;}
+.sostav_kafedri span{font-size:12px;margin:2px 0;display:block}
+.sostav_kafedri a{color:#000}
+.sostav_kafedri a:hover{text-decoration:none;color:#000}
+
+.sostav_kafedri--new {display: inline-block;text-align: center;vertical-align: text-top;width: 240px;}
+.sostav_kafedri--new img{display: block;margin: 0px auto;width: 200px;}
+.sostav_kafedri--new p{margin: 4px 0;}
+.sostav_kafedri__imglink{display: block;margin: 0px auto;width: 200px;}
+
+/*sostav RIO*/
+.sostav_rio {display:inline-block;text-align: center;width: 240px;min-height:260px;vertical-align: top;}
+.sostav_rio img {height: 212px;margin: 0px auto;width: 150px;}
+.sostav_rio p{font-size:12px;margin:2px 0;}
+/**/
+.image {margin: 10px;max-width: 420px;text-align: center;}
+.image img {margin: 0px auto}
+.image p {font-size: 12px;font-style: italic;}
+/**/
+.table{border-collapse:collapse}
+.table tr.odd td{background: rgba(243, 243, 243, .85);}
+.table thead td{border: 1px #E5E5E5 solid;font-weight:bold;text-align:center}
+.table tr td{background: #F1F1F1;border: solid 1px #E5E5E5;padding:5px;}
+/**/
+.news{overflow:hidden}
+
+#structure {overflow:hidden;margin:0 auto;width:600px;}
+#structure a {font-family:Georgia;font-style:italic;text-decoration:none;color:#3577BD;font-size:12px;}
+#logo_ddma, #kafedra {text-align:center;}
+#structure img{display:inline;border:none !important;}
+#kafedra {margin-top:20px;}
+#facult {margin-top:30px;text-align:center;}
+#fakultet {display:inline-block;margin-top:10px;overflow:hidden;list-style:none;}
+#fakultet li {float:left;text-align:center;margin-left:41px;}
+.kafedry {list-style:none;margin-left:41px;margin-top:15px;float:left;text-align:center;}
+.kafedry1 {list-style:none;margin-left:33px;margin-top:15px;float:left;text-align:center;}
+
+/**/
+
+
+/**/
+
+.bread_crumbs {font-size:11px; line-height:11px;text-align:right;}
+.breadcrumbs.pathway {padding:0px 0px 0px 5px;olor:#999;}
+
+/*turklub*/
+.turklub{min-height:500px;background:url(../../../images/ddma/studentu/turist.jpg) no-repeat right bottom;}
+
+/*kafedra_vm*/
+.kafedra_vm{text-align:center;font-style:italic;}
+
+/*tender*/
+.tender_info h5{line-height:34px;}
+.tender_info h2{text-align:center}
+
+/*death*/
+.death{border:solid 2px #000 !important;-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;}
+
+/*horizontal navigation*/
+.menu_hor{margin-bottom:10px}
+.text_hor{display:none;text-align:center;}
+.text_hor.visible {display:block;}
+.tabs_hor{overflow:hidden}
+.tabs_hor li{list-style:none;cursor:pointer;padding:2px 5px;color:#3577BD;font-style:italic}
+.tabs_hor li.current_hor{font-weight:bold}
+
+/*title*/
+
+.table tr td table tr td {padding: 5px;border: none !important;}
+
+/*search page*/
+#warning {color: lightCoral;padding: 8px;background: lavenderBlush;font-size: 12px;border: 1px solid darkSalmon;margin-bottom: 10px;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;}
+#warning {color:#F08080; padding:8px; background:#FFF0F5;font-size:12px;border:1px solid #E9967A;margin-bottom:10px;-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;}
+#warning  p{margin:0;}
+label[for="search_searchword"], [for="ordering"] {color:#3577BD;}
+#search_only {color:#3577BD;display:inline}
+table.contentpaneopen {border-collapse:collapse;border-spacing:0;}
+#search_searchword{width:240px;height:30px;line-height:30px;padding:0 5px;background:#fff8d1;border:solid 1px #c3bb90;}
+button[name="Search"] {border:none;height:32px;width:32px;background:url(../images/lens.png) no-repeat;padding:0;margin:0 3px;display:block;position:relative;z-index:5;}
+input[name="searchword"]{height:20px}
+.field {margin:0; margin-top:20px; border:none;}
+.field a {color:#3577BD; font-weight:bold;}
+.highlight {color:lightCoral;}
+.small {display:inline-block; color:#666; margin:5px 0 5px 15px; }
+#searchForm table tr td,.search_only_container{padding:5px 0;line-height:32px;}
+
+.search_only_container input[type="checkbox"] {vertical-align: middle;}
+/*flags*/
+.belorus{line-height:48px;padding-left:55px;background:url(../../../images/ddma/nauka/in_center/flags/belarus.png) no-repeat left center;}
+.belgium{line-height:48px;padding-left:55px;background:url(../../../images/ddma/nauka/in_center/flags/belgium.jpg) no-repeat left center;}
+.doich{line-height:48px;padding-left:55px;background:url(../../../images/ddma/nauka/in_center/flags/doich.jpg) no-repeat left center;}
+.poland{line-height:48px;padding-left:55px;background:url(../../../images/ddma/nauka/in_center/flags/poland.jpg) no-repeat left center;}
+.russia{line-height:48px;padding-left:55px;background:url(../../../images/ddma/nauka/in_center/flags/russia.png) no-repeat left center;}
+.serbia{line-height:48px;padding-left:55px;background:url(../../../images/ddma/nauka/in_center/flags/serbia.png) no-repeat left center;}
+.slovakia{line-height:48px;padding-left:55px;background:url(../../../images/ddma/nauka/in_center/flags/slovakia.jpg) no-repeat left center;}
+
+/*big_table*/
+.big_table{border-collapse:collapse;border-spacing:0;}
+.big_table thead tr td{font-size:10px;font-weight:bold}
+.big_table tr td{border:solid 1px #ccc;padding:5px;text-align:center;font-size:10px;}
+
+.avtor{text-align:right;font-style:italic;}
+
+/*miss*/
+.miss .hi{margin:15px 0;}
+.miss .hi h3{margin-top:25px;}
+.miss_foto img{display:inline;margin:0 30px;}
+.miss_foto {text-align:center;margin:40px 0 80px}
+
+/*priemka*/
+.priemka_spec table.table{width:100%;}
+.priemka_spec h5{text-align:center;padding:4px 0;}
+.priemka_spec .pr_sp_title{color:#3570BB;font-weight:bold;padding:8px 0;margin-top:15px;}
+.priemka_usk .pr_sp_title{margin-top:0 !important;text-align:center !important}
+
+/*konsultac.png*/
+.consult_forum_link a{background:url(../images/konsultac.png) no-repeat 0 0;display:inline-block;font-size:18px;height:79px;line-height:79px;padding-left:110px;}
+.consult_forum_link a:hover{background-position:0 -79px;text-decoration:none;}
+.npp_pdf_link_logo{background:url(../images/npp.jpg) no-repeat 0 0;display:block;font-size:18px;height:70px;margin:0 auto;width:340px;}
+
+a[href $='.pdf'] {background:url(../../../images/icon-pdf.png) no-repeat left 0;display:inline-block;padding:0 0 4px 24px;vertical-align: text-top;}
+a[href $='.doc'],a[href $='.docx'] {background:url(../../../images/icon-doc.gif) no-repeat left 0;display:inline-block;padding:0 0 4px 24px;vertical-align: text-top;}
+a[href $='.xls'],a[href $='.xlsx'] {background:url(../../../images/xls.jpg) no-repeat left 0;display:inline-block;padding:0 0 4px 24px;vertical-align: text-top;}
+
+/*omd obshaya stranica*/
+.omd_menu_c{font-size:1px;line-height:0;text-align: center;}
+.omd_menu{border:solid 1px #EEE;display:inline-block;font-size:12px;height:170px;line-height:16px;margin:0 10px 20px;padding:10px 15px;text-align:left;vertical-align: text-top;width:420px;}
+.omd_menu:hover{background:#EEE;cursor:default}
+.omd_menu_title{font-weight:bold;margin-bottom:10px;}
+.omd_menu_description{padding-right:210px;}
+
+/*rector_table*/
+.rector_table tr td{padding:2px}
+
+/*inline-block elment for IE7*/
+.omd_menu,
+.consult_forum_link a,
+.small,
+#fakultet,
+.sostav_rio{_overflow:hidden; *zoom:1;*display:inline;}
+
+/*border-box element*/
+
+/*transition bg*/
+.omd_menu{-webkit-transition: background 0.1s linear;
+-moz-transition: background 0.1s linear;
+-o-transition: background 0.1s linear;
+-ms-transition: background 0.1ms linear;
+transition: background 0.1s linear;}
+
+/*fucking separator */
+span.article_separator {display: none;}
+
+/* Video links */
+.video-page a {
+	padding-left:25px;
+	background: url(../images/movies.png) no-repeat center left;
+}
+
+.video-page {
+	padding-top: 8px;
+}
+
+/* IC menu-items */
+li.item-436 a {
+	background: url(../images/logo_sciense.png) no-repeat center;
+	display: block;
+	height: 63px;
+	text-indent: -9999px;
+}
+
+li.item-436 a:hover {
+	background: url(../images/logo_sciense.png) no-repeat center !important;
+}
+
+li.item-438 a {
+	background: url(../images/tempus.png) no-repeat center;
+	display: block;
+	height: 132px;
+	text-indent: -9999px;
+}
+
+li.item-438 a:hover {
+	background: url(../images/tempus.png) no-repeat center !important;
+}
+
+.sostav_rss_c{text-align: center;}
+.sostav_rss{display: inline-block;margin: 0 10px 10px;text-align: center;width: 300px;vertical-align: text-top;}
+p.sostav_rss__name{text-transform: uppercase;font-weight:bold;margin:0;}
+.sostav_rss img{border:solid 2px #ccc;}
+
+.vk_link{
+	background: url(../../../images/vkontakte.png) 0 0 no-repeat;
+	display: inline-block;
+	line-height: 24px;
+	padding-left: 27px;
+}
+.fb_link {
+	background: url(../../../images/global/social/facebook24px.png) 0 0 no-repeat;
+	display: inline-block;
+	line-height: 24px;
+	padding-left: 27px; 
+}
+
+#tabs{padding-top: 10px;}
+
+/*personal page*/
+.personal_page__first{margin-bottom: 8px;overflow: hidden;}
+
+.miss_2014{overflow: hidden;margin-bottom: 10px;}
+
+/**/
+.abitur__table{table-layout: fixed;width: 100%;}
+.abitur__table td{padding: 8px;}
+.abitur__table td:first-child{text-align: right;}
+
+.abitur__c {text-align: center;}
+.abitur__item {border: solid 1px #E9E9E9;display: inline-block;height: 122px;margin: 10px;padding: 10px;overflow: hidden;vertical-align: text-top;width: 46%;
+	-webkit-transition: all 0.1s ease;
+	-moz-transition: all 0.1s ease;
+	-ms-transition: all 0.1s ease;
+	-o-transition: all 0.1s ease;
+	transition: all 0.1s ease;
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;}
+.abitur__item:hover{box-shadow: 0 0 6px rgba(0,0,0,0.2);text-decoration: none;}
+.abitur__img {float: right;}
+.abitur__img img{display: block;}
+.abitur__info {display: block;padding-right: 160px;text-align: left;}
+.abitur__title {color: #333;display: block;font-size: 16px;text-transform: uppercase;}
+.abitur__txt {color: #818181;display: block;font-size: 11px;line-height: 16px;margin-top: 10px;}
+
+/*fakultet_slideshow*/
+.fakultet_slideshow{background:#fff;border-radius:4px;height: 450px;margin: 0 auto;padding:10px;position:relative;width:600px;
+-webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+-moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+-webkit-box-shadow: 0 15px 10px -12px rgba(0, 0, 0, 0.3), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+-moz-box-shadow: 0 15px 10px -12px rgba(0, 0, 0, 0.3), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+box-shadow: 0 15px 10px -12px rgba(0, 0, 0, 0.3), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;}
+.fakultet_slideshow:before,
+.fakultet_slideshow:after {content:"";position:absolute;z-index:-2;}
+ 
+.fakultet_slideshow__list {list-style: none;overflow: hidden;position: relative;width: 100%;}
+.fakultet_slideshow__list li {display: none;left: 0;top: 0;position: absolute;width: 100%;-webkit-backface-visibility: hidden;}
+.fakultet_slideshow__list li:first-child {display: block;float: left;position: relative;}
+.fakultet_slideshow__list img {display: block;height: auto;float: left;width: 100%;}
+.fakultet_slideshow .rslides1_nav{background-image: url(../images/fak_arrows.png);background-color: rgba(0,0,0,0.5);background-repeat: no-repeat;border-radius: 20px;display: block;height: 40px;margin-top: -20px;opacity: 0;position: absolute;text-indent: -9999px;top: 50%;width: 40px;z-index: 9999;
+-webkit-transition: all .15s linear;
+-moz-transition: all .15s linear;
+-ms-transition: all .15s linear;
+-o-transition: all .15s linear;
+transition: all .15s linear;}
+.fakultet_slideshow:hover .rslides1_nav{opacity: 1;}
+.fakultet_slideshow:hover .rslides1_nav:hover{background-color: rgba(0,0,0,0.8);}
+.fakultet_slideshow .rslides1_nav.prev{background-position: 0 center;left: 20px;}
+.fakultet_slideshow .rslides1_nav.next{background-position: right center;right: 20px;}
+
+.abitur__img--fac img{max-height: 100px;}
+
+.menu_fhsr_menu .parent ul{background: #fff;display: none;left: 100%;top: -1px;position: absolute;z-index: 99;}
+.menu_fhsr_menu .parent ul a{display: block;white-space: nowrap;}
+.menu_fhsr_menu .parent ul a:hover{background: #fff;}
+.menu_fhsr_menu .parent:hover ul{display: block;}
+
+.abitur__list{margin-bottom: 10px;}
+.abitur__list > p{font-size:14px;line-height: 18px;margin-top: 8px;}
+
+.new__table{border-collapse:collapse;border-spacing:0;width: 100%;}
+.new__table thead td{background: #E1F3F5;font-weight: bold;}
+.new__table td{border: solid 1px #F1F1F1;padding: 5px;vertical-align: middle;
+-webkit-transition: all .25s ease;
+-o-transition: all .25s ease;
+transition: all .25s ease;}
+.new__table tbody tr:nth-child(2n) td{background: #F7F7F7;}
+.new__table tbody tr:hover td{background: #eee;}
+.new__table td:first-child{text-align: center;}
+
+.new__table--tal td{text-align: left !important;}
+
+.new__table--align td{text-align: center !important;}
+.new__table--align tbody td:first-child{text-align: left !important;}
+
+
+/* veselka__opinion */
+.veselka__opinion{overflow: hidden;}
+.veselka__opinion__img{border: dashed 1px #DBDBDB;border-radius: 50%;float: left;padding: 5px;margin-right: 15px;}
+.veselka__opinion__img--right{float: right;margin: 0 0 0 15px;}
+.veselka__opinion__img img{border-radius: 50%;display: block;height: 150px;}
+.veselka__opinion__txt{float: left;padding: 10px;width: 730px;font-style: italic;color: #5F5F5F;font-size: 12px;}
+.veselka__opinion__txt--right{float: right;text-align: right;}
+
+/* social button */
+.social__c{}
+.soc__item{background: url(../images/soc_icon.png) 0 0 no-repeat;display: inline-block;height: 40px;margin: 0 3px;vertical-align: middle;width: 40px;
+-webkit-transition: all .15s linear;
+-o-transition: all .15s linear;
+transition: all .15s linear;}
+.soc__item:hover{opacity: .75;}
+.soc__item--vk{background-position: 0 0;}
+.soc__item--fb{background-position: -40px 0;}
+.soc__item--ok{background-position: -80px 0;}
+.soc__item--ig{background-position: right 0;}
+
+.vibori_prog_tabs{list-style: none;}
+.vibori_prog_tabs li{color: #2B587A;cursor: pointer;margin-top: 8px;}
+.vibori_prog_tabs li.active{font-weight: bold;}
+.vibori_prog_tabs__content{padding-top: 20px;}
+.vibori_tabs{display: none;}
+.vibori_tabs__list{list-style: none;font-size:0;line-height: ;}
+.vibori_tabs__list li{border:solid 1px #eee;border-bottom:none;color: #ccc;cursor: pointer;display: inline-block;font-size:18px;line-height: 21px;margin-right: 20px;padding: 8px 20px;position: relative;top: 1px;}
+.vibori_tabs__list li.active{background: #fff;color: #000;}
+.vibori_tabs__content{border:solid 1px #eee;}
+.vibori_tabs__content__item{display: none;padding: 20px;}
+.vibori_tabs__content__item.active{display: block;}
+
+
+/* Наукові видання */
+/* ponomarovmax */
+/* 2016-03-15, 12:00 */
+.nauka_cell_table  {
+	width: 			240px;
+	text-align: 	center; 
+	vertical-align: middle;
+	padding: 5px
+}
+
+.nauka_cell_image  {
+	max-height:100%; 
+	max-width:100%;
+	display: block;
+	background-image:none 
+}
+
+.nauka_cell_image:hover {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
