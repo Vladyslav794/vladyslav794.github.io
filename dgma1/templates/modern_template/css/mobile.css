@@ -43,7 +43,7 @@
 	.wrapper{min-width: 100%; max-width: 100%;}
 	.quote, .sblock{display: none;}
 	.header{height: 250px; font:left;}
-	.header_title, .search{padding: 0px;}
+	.header_title, .search{padding: 0 0 0 0;}
 	.h{	width: 100%;
 		text-align: center;
 	   position: relative;}
