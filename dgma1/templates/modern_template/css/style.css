@@ -60,7 +60,7 @@ transform: rotate(180deg);
 
 /*sub_menu*/
 .sub_menu_c{background:#fff;/*height:40px;*/}
-.menu_top_menu li > ul{background:none;display:none;font-size: 1px;line-height: 0;left:0;position:absolute;text-align: left;z-index: 999;*top:40px;
+.menu_top_menu li > ul{background:none;display:none;font-size: 1px;line-height: 0;left:0;position:absolute;text-align: left;z-index: 999;*top:40px; padding: 0px;
     -webkit-box-shadow: 0px 0px 10px rgba(50, 50, 50, 0.3);-moz-box-shadow: 0px 0px 10px rgba(50, 50, 50, 0.3);box-shadow: 0px 0px 10px rgba(50, 50, 50, 0.3);}
 .menu_top_menu li > ul:before{content:' '; width: 0;height: 0;border-left: 5px solid transparent;border-right: 5px solid transparent;border-bottom: 10px solid #fff;position: absolute; top: -10px;left: 30px;}
 .menu_top_menu li > ul > li{background:#fff;font-family:'Segoe UI', 'pt_sansregular', arial, sans-serif;font-size:14px;line-height:40px;list-style: none;position:relative;line-height: 30px;}
