@@ -207,7 +207,7 @@ background: linear-gradient(to bottom, #f5f5f5 0%,#e8e8e8 100%);}
 .umkd_list{list-style:none;padding:10px 0 0 20px;}
 .umkd_list li{background:url(../images/rar_icon.png) no-repeat left top;font-size:16px;line-height:18px;margin-bottom:15px;padding-left:24px;}
 /* Footer-----------------------------------------------------------------------------*/
-.footer {background:#fff;border:solid 1px #dfdede;margin:0 ;padding:10px;position:relative;text-align:center;min-width:980px;max-width: 1200px;}
+.footer {background:#fff;border:solid 1px #dfdede;margin:0 auto;padding:10px;position:relative;text-align:center;min-width:980px;max-width: 1200px;}
 
 /*inline-block for IE*/
 .man_menu_list li,
